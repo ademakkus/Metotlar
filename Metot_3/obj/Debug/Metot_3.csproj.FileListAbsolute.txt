@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_3\bin\Debug\Metot_3.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_3\bin\Debug\Metot_3.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_3\bin\Debug\Metot_3.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_3\obj\Debug\Metot_3.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_3\obj\Debug\Metot_3.pdb

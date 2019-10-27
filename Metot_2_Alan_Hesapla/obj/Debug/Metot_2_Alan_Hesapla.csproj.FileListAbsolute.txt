@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla\bin\Debug\Metot_2_Alan_Hesapla.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla\bin\Debug\Metot_2_Alan_Hesapla.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla\bin\Debug\Metot_2_Alan_Hesapla.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla\obj\Debug\Metot_2_Alan_Hesapla.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla\obj\Debug\Metot_2_Alan_Hesapla.pdb

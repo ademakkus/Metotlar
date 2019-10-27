@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\bin\Debug\Metot_2_Alan_Hesapla_2.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\bin\Debug\Metot_2_Alan_Hesapla_2.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\bin\Debug\Metot_2_Alan_Hesapla_2.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\obj\Debug\Metot_2_Alan_Hesapla_2.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\obj\Debug\Metot_2_Alan_Hesapla_2.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_2_Alan_Hesapla_2\obj\Debug\Metot_2_Alan_Hesapla_2.csprojResolveAssemblyReference.cache
