@@ -24,6 +24,7 @@ namespace Metot_3
            Console.WriteLine("\nSonuc :{0}",sonuc);
            Console.ReadKey();
         }
+        //<summary> unutma!!!!
         /// <summary>
         /// Klavyeden üs değeri kadar tabanın kuvvetini alır
         /// </summary>

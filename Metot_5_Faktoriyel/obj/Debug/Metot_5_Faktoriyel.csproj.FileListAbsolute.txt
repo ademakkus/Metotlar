@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\bin\Debug\Metot_5_Faktoriyel.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\bin\Debug\Metot_5_Faktoriyel.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\bin\Debug\Metot_5_Faktoriyel.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\obj\Debug\Metot_5_Faktoriyel.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\obj\Debug\Metot_5_Faktoriyel.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_5_Faktoriyel\obj\Debug\Metot_5_Faktoriyel.csprojResolveAssemblyReference.cache

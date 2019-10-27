@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\bin\Debug\Metot_4.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\bin\Debug\Metot_4.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\bin\Debug\Metot_4.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\obj\Debug\Metot_4.csprojResolveAssemblyReference.cache
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\obj\Debug\Metot_4.exe
+D:\AdemAKKUS\Uygulamalar\Hafta4\Metotlar\Metot_4\obj\Debug\Metot_4.pdb
